@@ -7,7 +7,7 @@
 github project
 
 ### Description
-Describe what your project is about and what it does
+my project is for udacity for python nanodgree
 
 ### Files used
 Include the files used
