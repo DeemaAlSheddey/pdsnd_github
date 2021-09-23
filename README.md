@@ -13,5 +13,6 @@ my project is for udacity for python nanodgree
 i uesd bikeshare file 
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+there's channel on youtube inspired me so much
+https://www.youtube.com/watch?v=8JJ101D3knE&feature=share
 
